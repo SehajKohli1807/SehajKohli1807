@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA and NodeJS**
 
-- 👯 I’m looking to collaborate on **Frontend Web Development**
-
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
 - 📫 How to reach me **ssingh13_be21@thapar.edu**
