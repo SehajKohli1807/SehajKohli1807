@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sehaj jot Singh</h1>
-<h3 align="center">An Undergrad student studying Computer Engineering in India. Executive Board Member at Microsoft Learn Student Chapter, TIET.</h3>
+<h3 align="center">An Undergrad student studying Computer Engineering in India.</h3>
+<h3 align="center">Executive Board Member at Microsoft Learn student Chapter,TIET.</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
