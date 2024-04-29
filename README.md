@@ -1,22 +1,26 @@
-<h1>Hi there👋, My name is Sehaj jot Singh.</h1>
-<p>An Undergrad Computer Engineering Student at Thapar Institute of Engineering and Technology | A passionate Full Stack Web Developer.</p>
+<h1 align="center">Hi there👋, My name is Sehaj jot Singh.</h1>
+<h4 align="center">An Undergrad Computer Engineering Student at Thapar Institute of Engineering and Technology | A Passionate Full Stack Web Developer.</h4>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Web Development**
-
 - 🌱 I’m currently learning **DSA and Backend Development**
-
 - 👯 I’m looking to collaborate on **Frontend Web Development**
-
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
-
 - 📫 How to reach me **ssingh13_be21@thapar.edu**
 
+  
+
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/sehaj-jot-singh/" style="display: span;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-</p><p><a target="_blank" href="mailto:ssingh13_be21@thapar.edu" style="display: span;"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23FF0000" alt="gmail"  /></a></p>
+<a target="_blank" href="https://www.linkedin.com/in/sehaj-jot-singh/"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"></img></a>
+<a target="_blank" href="mailto:ssingh13_be21@thapar.edu"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23FF0000" alt="gmail"></img></a>
+
+
 
   
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>
+:man_technologist: Technologies and Tools: <br>
+</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -48,6 +52,7 @@
 
 
 [![An image of @sehajkohli1807's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehajkohli1807)](https://holopin.io/@sehajkohli1807)
+
 
 
 
